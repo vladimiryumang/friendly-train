@@ -1,0 +1,5 @@
+c:\Users\vyumang\documents\visual studio 2015\Projects\WordGame\Interface\bin\Debug\Interface.dll
+c:\Users\vyumang\documents\visual studio 2015\Projects\WordGame\Interface\bin\Debug\Interface.pdb
+c:\Users\vyumang\documents\visual studio 2015\Projects\WordGame\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+c:\Users\vyumang\documents\visual studio 2015\Projects\WordGame\Interface\obj\Debug\Interface.dll
+c:\Users\vyumang\documents\visual studio 2015\Projects\WordGame\Interface\obj\Debug\Interface.pdb
