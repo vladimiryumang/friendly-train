@@ -1,0 +1,9 @@
+c:\Users\vyumang\documents\visual studio 2015\Projects\WordGame\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+c:\Users\vyumang\documents\visual studio 2015\Projects\WordGame\Factory\bin\Debug\Factory.dll
+c:\Users\vyumang\documents\visual studio 2015\Projects\WordGame\Factory\bin\Debug\Factory.pdb
+c:\Users\vyumang\documents\visual studio 2015\Projects\WordGame\Factory\bin\Debug\Library.dll
+c:\Users\vyumang\documents\visual studio 2015\Projects\WordGame\Factory\bin\Debug\Library.pdb
+c:\Users\vyumang\documents\visual studio 2015\Projects\WordGame\Factory\obj\Debug\Factory.dll
+c:\Users\vyumang\documents\visual studio 2015\Projects\WordGame\Factory\obj\Debug\Factory.pdb
+C:\Users\vyumang\Documents\Visual Studio 2015\Projects\WordGame\Factory\bin\Debug\Interface.dll
+C:\Users\vyumang\Documents\Visual Studio 2015\Projects\WordGame\Factory\bin\Debug\Interface.pdb
